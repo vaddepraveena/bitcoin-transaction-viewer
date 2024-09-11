@@ -1,0 +1,1 @@
+The Bitcoin Transaction Viewer is a web application that allows users to view detailed information about a specific Bitcoin transaction by entering its transaction hash. This project is a great way to understand how to interact with blockchain data using APIs, and it provides a simple yet practical tool for exploring Bitcoin transactions.
